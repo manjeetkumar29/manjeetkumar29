@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manjeet Kumar</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="180" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="600" />
 </div>
 
 <h3 align="center">A passionate engineer driven by curiosity, creativity, and real-world problem-solving.</h3>
