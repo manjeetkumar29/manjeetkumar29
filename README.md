@@ -52,9 +52,6 @@
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![VSCODE](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
